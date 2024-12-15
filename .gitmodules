@@ -1,0 +1,9 @@
+[submodule "blip-fe"]
+	path = blip-fe
+	url = https://github.com/gnoya000/blip-fe.git
+[submodule "blip-be"]
+	path = blip-be
+	url = https://github.com/gnoya000/blip-be.git
+[submodule "blip-ai"]
+	path = blip-ai
+	url = https://github.com/gnoya000/blip-ai.git
